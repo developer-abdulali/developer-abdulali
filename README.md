@@ -8,13 +8,12 @@
 
 - 🌱 I’m currently learning **Node Js, MongoDB, Express Js, MySQl**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ab-ali.vercel.app/](https://portfolio-ab-ali.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-blush-two-15.vercel.app/](https://portfolio-blush-two-15.vercel.app/)
 
 - 💬 Ask me about **React Js, Next Js**
 
 - 📫 How to reach me **ab.ali.soomro@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13klU2Zmk18Z_NrkyZMbQet41RIQbLLIx/view](https://drive.google.com/file/d/13klU2Zmk18Z_NrkyZMbQet41RIQbLLIx/view)
 
 
 
