@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS, Next JS, Node Js, MongoDB, Express Js, MySQl**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ab-ali.vercel.app/](https://portfolio-ab-ali.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://modern-portfolio-mauve.vercel.app/](https://modern-portfolio-mauve.vercel.app/)
 
 - 💬 Ask me about **React Js, Next Js**
 
