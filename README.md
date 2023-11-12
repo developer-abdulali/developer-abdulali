@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js, MongoDB, Express Js, MySQl and Artificial intelligence (AI)**
+- 🌱 I’m currently learning **Node Js, MongoDB, Express Js, MySQl and Artificial intelligence (AI) and AWS Cloud Services**
 
 - 👨‍💻 All of my projects are available at [https://modern-portfolio-mauve.vercel.app/](https://modern-portfolio-mauve.vercel.app/)
 
