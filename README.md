@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdul Ali</h1>
-<h3 align="center">A passionate FullStack developer passionate about building innovative and user-friendly web applications with focus on scalability.</h3>
+<h3 align="center">A passionate Frontend developer passionate about building innovative and user-friendly web applications with focus on scalability.</h3>
 <!-- <img  align=“right” alt=“Coding” width=“400” src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-abdulali&label=Profile%20views&color=0e75b6&style=flat" alt="developer-abdulali" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Node JS, MongoDB, Express JS, MySQL and Artificial intelligence (AI) and AWS Cloud Services**
+- 🌱 I’m currently learning **Node JS, MongoDB, Express JS, MySQL, and Artificial intelligence (AI) and AWS Cloud Services**
 
 - 👨‍💻 All of my projects are available at [https://modern-portfolio-mauve.vercel.app/](https://modern-portfolio-mauve.vercel.app/)
 
