@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node JS, MongoDB, Express JS, MySQL, and Artificial intelligence (AI) and AWS Cloud Services**
 
-- 👨‍💻 All of my projects are available at [https://modern-portfolio-mauve.vercel.app/](https://modern-portfolio-mauve.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://modern-portfolio-mauve.vercel.app/](https://modern-portfolio-mauve.vercel.app)
 
 - 💬 Ask me about **React JS, Next JS**
 
