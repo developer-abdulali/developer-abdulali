@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node JS, MongoDB, Express JS, MySQL, and Artificial intelligence (AI) and AWS Cloud Services**
 
-- 👨‍💻 All of my projects are available at [https://abdulali.netlify.app/](https://abdulali.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abdulali.vercel.app/](https://abdulali.vercel.app/)
 
 - 💬 Ask me about **React JS, Next JS**
 
