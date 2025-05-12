@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Ali</h1>
-<h3 align="center">A passionate Frontend developer passionate about building innovative and user-friendly web applications with focus on scalability.</h3>
+<h3 align="center">Frontend Developer crafting modern, scalable web apps with React & Next.js
+</h3>
 <!-- <img  align=“right” alt=“Coding” width=“400” src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-abdulali&label=Profile%20views&color=0e75b6&style=flat" alt="developer-abdulali" /> </p>
