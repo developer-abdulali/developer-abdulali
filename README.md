@@ -1,7 +1,8 @@
+```md
 <h1 align="center">Hi 👋, I'm Abdul Ali</h1>
 
 <h3 align="center">
-Next.js & React Developer | Full-Stack Engineer (TypeScript, Supabase, MERN) | Crafting Fast, Scalable & Modern Web Apps
+Next.js, React & React Native Developer | Full-Stack Engineer (TypeScript, Supabase, MERN) | Building Fast, Scalable Web & iOS Mobile Applications
 </h3>
 
 <p align="center">
@@ -12,11 +13,12 @@ Next.js & React Developer | Full-Stack Engineer (TypeScript, Supabase, MERN) | C
 
 # 🚀 About Me
 
-- 💻 Full-Stack Developer focused on **Next.js, React, TypeScript, Supabase, and MERN Stack**
-- ⚡ Passionate about building **fast, scalable, and modern web applications**
-- 🌱 Currently exploring **Advanced Backend Development, Cloud (AWS), and AI Integration**
+- 💻 Full-Stack Developer specializing in **Next.js, React, React Native, TypeScript, Supabase, and the MERN Stack**
+- 📱 Building **cross-platform mobile applications** with **React Native**, with a focus on **iOS**
+- ⚡ Passionate about creating **fast, scalable, secure, and modern web & mobile applications**
+- 🌱 Currently exploring **Advanced Backend Development, Cloud (AWS), AI Integration, and Mobile App Architecture**
 - 👨‍💻 Portfolio: **https://abdulali.vercel.app**
-- 💬 Ask me about **Next.js, React.js, TypeScript, Tailwind CSS**
+- 💬 Ask me about **Next.js, React.js, React Native, TypeScript, Tailwind CSS, Supabase**
 - 📫 Email: **ab.ali.soomro@gmail.com**
 
 ---
@@ -36,6 +38,8 @@ Next.js & React Developer | Full-Stack Engineer (TypeScript, Supabase, MERN) | C
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 
@@ -125,13 +129,14 @@ Next.js & React Developer | Full-Stack Engineer (TypeScript, Supabase, MERN) | C
 
 # 🌐 Connect With Me
 
-- 📍 **Location:** Shikarpur, Pakistan  
-- 🌐 **Portfolio:** https://abdulali.vercel.app  
-- 💼 **LinkedIn:** https://linkedin.com/in/abdul-ali-31a1bb22b  
-- 📧 **Email:** ab.ali.soomro@gmail.com  
-- 🐦 **Twitter (X):** https://x.com/ab_ali2k23  
-- 📘 **Facebook:** https://facebook.com/abdulaliosoomro2k23  
+- 📍 **Location:** Shikarpur, Pakistan
+- 🌐 **Portfolio:** https://abdulali.vercel.app
+- 💼 **LinkedIn:** https://linkedin.com/in/abdul-ali-31a1bb22b
+- 📧 **Email:** ab.ali.soomro@gmail.com
+- 🐦 **Twitter (X):** https://x.com/ab_ali2k23
+- 📘 **Facebook:** https://facebook.com/abdulaliosoomro2k23
 
 ---
 
 ⭐️ From [developer-abdulali](https://github.com/developer-abdulali)
+```
